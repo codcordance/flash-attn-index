@@ -1,5 +1,5 @@
 <h1 align="center"><b>Flash Attention index</b></h1>
-<h3 align="center">PEP 503 indexes for flash-attention prebuilt wheels.</h3>
+<h3 align="center">PEP 503 indexes for flash-attention prebuilt wheels</h3>
 
 These indexes provide prebuilt wheels for `flash-attn` to speed up installation and avoid compilation issues. The wheels are prebuilt and provided by [@mjun0812](https://github.com/mjun0812/flash-attention-prebuild-wheels)
 (and a few others by [me](https://github.com/codcordance/flash-attention-win))

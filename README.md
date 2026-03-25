@@ -39,4 +39,5 @@ flash-attn = { version = "*", source = "flash-attn-cu130", markers = "sys_platfo
 pip install flash-attn --extra-index-url https://codcordance.github.io/flash-attn-index/cu130/
 ```
 
-*(Note: Replace `cu130` with `cu126` or `cu128` in the URLs and index names depending on your CUDA version requirements.)*
+*(Note: Replace `cu130` with `cu126`, `cu128` or `cu131` in the URLs and index names depending on your CUDA version 
+requirements.)*
